@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0">
   <channel>
     <title>MissionPlus Updates</title>
     <link>https://ryancooper73.github.io/MissionPlus-releases/appcast.xml</link>
     <description>Updates for MissionPlus</description>
     <language>en</language>
-  <item><title>Version 0.0.1</title><pubDate>Sun, 05 Jul 2026 16:21:31 -0000</pubDate><sparkle:version>1</sparkle:version><sparkle:shortVersionString>0.0.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/ryancooper73/MissionPlus-releases/releases/download/v0.0.1/MissionPlus.dmg" length="3734824" type="application/octet-stream" sparkle:edSignature="/3FE7BJ9nZuhv0H/JPiCIW/DrIBBjOHTYEr4QwcZC2H4dd5RnBeG1kwhBGRNeO0WqVdBZn25zoQaL2EWOKO6CQ==" /></item></channel>
+  </channel>
 </rss>
